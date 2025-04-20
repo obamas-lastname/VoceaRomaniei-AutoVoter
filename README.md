@@ -14,3 +14,4 @@ Chrome îşi mai face auto update, există mai multe moduri de a opri update-uri
 În formatul actual, votul durează aprox. 15 secunde, dar duratele de sleep pot fi ajustate.
 ## DISCLAIMER
 Nu îmi asum responsabilitatea pentru scopurile în care este utilizat programul. Este făcut în scop pur educaţional şi demonstrativ, realist vorbind aduce un număr neglijabil de voturi, având în vedere timpul necesar fiecărei iteraţii şi numărul mare de voturi reale din partea audienţei.
+-> Testat în decembrie 2024
